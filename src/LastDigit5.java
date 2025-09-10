@@ -1,3 +1,4 @@
+// 2. Write a program to check whether the last digit of a number is 5.//
 import java.util.Scanner;
 public class LastDigit5 {
     public static void main(String[] args) {
