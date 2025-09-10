@@ -5,10 +5,12 @@ public class EligibilityForLoan {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter the age");
         int age = sc.nextInt();
+        System.out.println("enter the loan amount");
+        int PendingLoans = sc.nextInt();
         if (age >= 21) {
             System.out.println("enter the income");
             int income = sc.nextInt();
-            if (income >= 25000) {
+            if (income >= 25000 && PendingLoans==0) {
                 System.out.println("person is eligible for loan");
             } else {
                 System.out.println("person is not eligible for loan");
