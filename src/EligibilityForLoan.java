@@ -1,3 +1,4 @@
+//12. Write a program to check whether a person is eligible for a loan (age ≥ 21, income ≥ 25,000, and no pending loans). //
 import java.util.Scanner;
 public class EligibilityForLoan {
     public static void main(String[] args) {
