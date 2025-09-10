@@ -1,3 +1,4 @@
+// 4. Write a program to check whether a person is eligible for senior citizen benefits (age ≥ 60). //
 import java.util.Scanner;
 public class SeniorCitizenBenefits {
     public static void main(String[] args) {
