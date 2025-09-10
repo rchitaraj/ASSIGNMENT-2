@@ -1,3 +1,5 @@
+// 20. Write a program to check whether the given day (number 1–7) is a weekday or weekend using a switch.//
+
 import java.util.Scanner;
 public class TypeOfDay {
     public static void main(String[] args) {
