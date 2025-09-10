@@ -1,3 +1,4 @@
+// 3. Write a program to check whether the sum of two numbers is greater than 100 or not. //
 import java.util.Scanner;
 public class SumOfTwo {
     public static void main(String[] args) {
