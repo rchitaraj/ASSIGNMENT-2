@@ -1,3 +1,5 @@
+//13. Write a program to check whether the entered time is valid or invalid (hours < 24 and minutes < 60). //
+ //
 import java.util.Scanner;
 public class ValidTimeOrNot {
     public static void main(String[] args) {
