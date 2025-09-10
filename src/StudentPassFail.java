@@ -1,3 +1,5 @@
+//8.Write a program to input marks of 5 subjects and check whether the student has passed overall (average ≥ 40).//
+
 import java.util.Scanner;
 public class StudentPassFail {
     public static void main(String[] args) {
