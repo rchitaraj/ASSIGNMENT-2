@@ -1,3 +1,4 @@
+//10. Write a program to check whether a given character is a digit and also even/odd digit.//
 import java.util.Scanner;
 public class CharDigitOrNot {
     public static void main(String[] args) {
