@@ -1,3 +1,4 @@
+// 5. Write a program to check whether a number is a three-digit number divisible by 7. //
 import java.util.Scanner;
 public class DivisibiltyBy7 {
     public static void main(String[] args) {
