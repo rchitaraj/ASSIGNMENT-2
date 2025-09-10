@@ -1,3 +1,4 @@
+//17. Write a program to implement a mini ATM system using a switch (options: Check Balance, Deposit, Withdraw, Exit). 18. Write a program to input marks of 5 subjects and print the division//
 import java.util.Scanner;
 public class MiniAtmSystem {
     public static void main(String[] args) {
