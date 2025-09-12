@@ -1,6 +1,5 @@
 //7. Write a program to check whether a triangle is Equilateral, Isosceles, or Scalene. //
-import java.util.Scanner;
-public class ArmstrongNumber {
+import java.util.Scanner; {
     public class TypesOfTriangle {
         public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
